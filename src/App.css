@@ -1,0 +1,21 @@
+main {
+  padding-top: 60px; /* Adjust to the navbar height */
+}
+
+button {
+  padding: 8px 12px;
+  font-size: 16px;
+  cursor: pointer;
+  border: 1px solid #ddd;
+  background-color: #f4f4f4;
+  margin-right: 10px;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #e0e0e0;
+}
+
+button:active {
+  background-color: #ccc;
+}
